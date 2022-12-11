@@ -141,7 +141,7 @@ ScrollReveal({
     //reset: true,
     distance: '60px',
     duration: 2500,
-    delay: 100
+    delay: 20
 });
 
 ScrollReveal().reveal('.home .info h2, .section-title-01, .section-title-02', { delay: 500, 
